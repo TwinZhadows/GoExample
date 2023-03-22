@@ -116,27 +116,3 @@ func main() {
 	// fmt.Printf("ID of added album: %v\n", albID)
 
 }
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
-
-//newcomment
