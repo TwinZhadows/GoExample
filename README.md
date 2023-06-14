@@ -1,2 +1,2 @@
 # GoExample
-# edit
+# My playground for studying GOlang :) 
